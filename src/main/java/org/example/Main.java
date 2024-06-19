@@ -7,6 +7,6 @@ public class Main {
 //        TimeCounter counter=new TimeCounter();
 //        counter.counter();
         FizzBuzz fizzBuzz=new FizzBuzz();
-        fizzBuzz.run(100);
+        fizzBuzz.run(15);
     }
 }
